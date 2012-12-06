@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AppWarp_WP7_TestSDK</name>
+    </assembly>
+    <members>
+        <member name="M:AppWarp_WP7_TestSDK.MainPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:AppWarp_WP7_TestSDK.App.#ctor">
+            <summary>
+            Constructor for the Application object.
+            </summary>
+        </member>
+        <member name="M:AppWarp_WP7_TestSDK.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="P:AppWarp_WP7_TestSDK.App.RootFrame">
+            <summary>
+            Provides easy access to the root frame of the Phone Application.
+            </summary>
+            <returns>The root frame of the Phone Application.</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,30 @@
+D:\AppWarp_Wp7\AppWarp_WP7_TestSDK\AppWarp_WP7_TestSDK\Bin\Release\ApplicationIcon.png
+D:\AppWarp_Wp7\AppWarp_WP7_TestSDK\AppWarp_WP7_TestSDK\Bin\Release\Background.png
+D:\AppWarp_Wp7\AppWarp_WP7_TestSDK\AppWarp_WP7_TestSDK\Bin\Release\AppWarp_WP7_TestSDK.dll
+D:\AppWarp_Wp7\AppWarp_WP7_TestSDK\AppWarp_WP7_TestSDK\Bin\Release\AppWarp_WP7_TestSDK.pdb
+D:\AppWarp_Wp7\AppWarp_WP7_TestSDK\AppWarp_WP7_TestSDK\Bin\Release\AppManifest.xaml
+D:\AppWarp_Wp7\AppWarp_WP7_TestSDK\AppWarp_WP7_TestSDK\Bin\Release\AppWarp_WP7_TestSDK.xap
+D:\AppWarp_Wp7\AppWarp_WP7_TestSDK\AppWarp_WP7_TestSDK\Bin\Release\AppWarp_WP7_SDK.dll
+D:\AppWarp_Wp7\AppWarp_WP7_TestSDK\AppWarp_WP7_TestSDK\Bin\Release\Newtonsoft.Json.WindowsPhone.dll
+D:\AppWarp_Wp7\AppWarp_WP7_TestSDK\AppWarp_WP7_TestSDK\Bin\Release\AppWarp_WP7_SDK.pdb
+D:\AppWarp_Wp7\AppWarp_WP7_TestSDK\AppWarp_WP7_TestSDK\obj\Release\ResolveAssemblyReference.cache
+D:\AppWarp_Wp7\AppWarp_WP7_TestSDK\AppWarp_WP7_TestSDK\obj\Release\App.g.i.cs
+D:\AppWarp_Wp7\AppWarp_WP7_TestSDK\AppWarp_WP7_TestSDK\obj\Release\MainPage.g.i.cs
+D:\AppWarp_Wp7\AppWarp_WP7_TestSDK\AppWarp_WP7_TestSDK\obj\Release\AppWarp_WP7_TestSDK.g.resources
+D:\AppWarp_Wp7\AppWarp_WP7_TestSDK\AppWarp_WP7_TestSDK\obj\Release\AppWarp_WP7_TestSDK.dll
+D:\AppWarp_Wp7\AppWarp_WP7_TestSDK\AppWarp_WP7_TestSDK\obj\Release\AppWarp_WP7_TestSDK.pdb
+D:\AppWarp_Wp7\AppWarp_WP7_TestSDK\AppWarp_WP7_TestSDK\obj\Release\XapCacheFile.xml
+D:\New folder\AppWarp\Samples\WarpSample_WP7\Bin\Release\ApplicationIcon.png
+D:\New folder\AppWarp\Samples\WarpSample_WP7\Bin\Release\Background.png
+D:\New folder\AppWarp\Samples\WarpSample_WP7\Bin\Release\AppWarp_WP7_TestSDK.dll
+D:\New folder\AppWarp\Samples\WarpSample_WP7\Bin\Release\AppWarp_WP7_TestSDK.pdb
+D:\New folder\AppWarp\Samples\WarpSample_WP7\Bin\Release\AppManifest.xaml
+D:\New folder\AppWarp\Samples\WarpSample_WP7\Bin\Release\AppWarp_WP7_TestSDK.xap
+D:\New folder\AppWarp\Samples\WarpSample_WP7\Bin\Release\AppWarp_WP7_SDK.pdb
+D:\New folder\AppWarp\Samples\WarpSample_WP7\obj\Release\ResolveAssemblyReference.cache
+D:\New folder\AppWarp\Samples\WarpSample_WP7\obj\Release\App.g.i.cs
+D:\New folder\AppWarp\Samples\WarpSample_WP7\obj\Release\MainPage.g.i.cs
+D:\New folder\AppWarp\Samples\WarpSample_WP7\obj\Release\AppWarp_WP7_TestSDK.g.resources
+D:\New folder\AppWarp\Samples\WarpSample_WP7\obj\Release\AppWarp_WP7_TestSDK.dll
+D:\New folder\AppWarp\Samples\WarpSample_WP7\obj\Release\AppWarp_WP7_TestSDK.pdb
+D:\New folder\AppWarp\Samples\WarpSample_WP7\obj\Release\XapCacheFile.xml

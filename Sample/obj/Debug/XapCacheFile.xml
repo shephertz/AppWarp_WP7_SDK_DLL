@@ -1,0 +1,10 @@
+﻿<xapCache source="D:\PublicSDKs\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\AppWarp_WP7_TestSDK.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="06-12-2012 10:33:54">
+  <file source="D:\PublicSDKs\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="01-08-2012 12:21:56" />
+  <file source="D:\PublicSDKs\AppWarp_WP7_SDK_DLL\Sample\Background.png" archivePath="Background.png" lastWriteTime="01-08-2012 12:21:56" />
+  <file source="D:\PublicSDKs\AppWarp_WP7_SDK_DLL\Sample\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="01-08-2012 12:21:56" />
+  <file source="D:\PublicSDKs\AppWarp_WP7_SDK_DLL\Sample\obj\Debug\AppWarp_WP7_TestSDK.dll" archivePath="AppWarp_WP7_TestSDK.dll" lastWriteTime="06-12-2012 10:33:53" />
+  <file source="D:\PublicSDKs\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\AppWarp_WP7_SDK.dll" archivePath="AppWarp_WP7_SDK.dll" lastWriteTime="06-12-2012 09:55:36" />
+  <file source="D:\PublicSDKs\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\Newtonsoft.Json.WindowsPhone.dll" archivePath="Newtonsoft.Json.WindowsPhone.dll" lastWriteTime="01-08-2012 12:21:56" />
+  <file source="D:\PublicSDKs\AppWarp_WP7_SDK_DLL\Sample\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="01-08-2012 12:21:56" />
+  <file source="D:\PublicSDKs\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="06-12-2012 10:21:25" />
+</xapCache>
