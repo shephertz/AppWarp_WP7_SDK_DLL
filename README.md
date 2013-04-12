@@ -1,7 +1,20 @@
 AppWarp_WP7_SDK_DLL
 ===================
 
-AppWarp client SDK files for WP7
+AppWarp client SDK files for WP
+
+AppWarp_WP7_SDK
+===============
+
+AppWarp client SDK and samples for WP7 and WP8 applications
+
+Check out [AppWarp](http://appwarp.shephertz.com/) to learn more about the product.
+
+[Getting Started](https://github.com/shephertz/AppWarp_WP7_SDK_DLL/wiki/Getting-Started)
+
+[Reference](https://github.com/shephertz/AppWarp_WP7_SDK_DLL/wiki/Reference)
+
+[FAQ](https://github.com/shephertz/AppWarp_JAVA_SDK_JAR/wiki/FAQ)
 
 Sample
 ========
