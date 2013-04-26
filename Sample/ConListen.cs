@@ -35,17 +35,6 @@ namespace AppWarp_WP7_TestSDK
 
         }
 
-        public void onJoinZoneDone(ConnectEvent eventObj)
-        {
-            if (eventObj.getResult() == WarpResponseResultCode.SUCCESS)
-            {
-                _page.showResult("auth success");
-            }
-            else
-            {
-                _page.showResult("auth fail");
-            }
-        }
         public void onDisconnectDone(ConnectEvent eventObj)
         {
         }

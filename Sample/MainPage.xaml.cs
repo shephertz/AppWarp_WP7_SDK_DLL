@@ -45,12 +45,7 @@ namespace AppWarp_WP7_TestSDK
 
         private void connectButton_Click(object sender, RoutedEventArgs e)
         {
-            WarpClient.GetInstance().Connect();
-        }
-        private void authButton_Click(object sender, RoutedEventArgs e)
-        {
-            resutlBlock.Text = "on auth clicked and name is " + inputBox.Text;
-            WarpClient.GetInstance().JoinZone(inputBox.Text);
+            WarpClient.GetInstance().Connect(inputBox.Text);
         }
 
         private void joinButton_Click(object sender, RoutedEventArgs e)

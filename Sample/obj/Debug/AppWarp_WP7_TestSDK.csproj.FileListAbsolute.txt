@@ -73,3 +73,17 @@ D:\PublicSDKs\AppWarp_WP7_SDK_DLL\Sample\obj\Debug\AppWarp_WP7_TestSDK.g.resourc
 D:\PublicSDKs\AppWarp_WP7_SDK_DLL\Sample\obj\Debug\AppWarp_WP7_TestSDK.dll
 D:\PublicSDKs\AppWarp_WP7_SDK_DLL\Sample\obj\Debug\AppWarp_WP7_TestSDK.pdb
 D:\PublicSDKs\AppWarp_WP7_SDK_DLL\Sample\obj\Debug\XapCacheFile.xml
+J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\ApplicationIcon.png
+J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\Background.png
+J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\AppWarp_WP7_TestSDK.dll
+J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\AppWarp_WP7_TestSDK.pdb
+J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\AppManifest.xaml
+J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\AppWarp_WP7_TestSDK.xap
+J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\obj\Debug\AppWarp_WP7_TestSDK.csprojResolveAssemblyReference.cache
+J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\obj\Debug\App.g.i.cs
+J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\obj\Debug\MainPage.g.i.cs
+J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\obj\Debug\AppWarp_WP7_TestSDK.g.resources
+J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\obj\Debug\AppWarp_WP7_TestSDK.dll
+J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\obj\Debug\AppWarp_WP7_TestSDK.pdb
+J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\obj\Debug\XapCacheFile.xml
+J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\AppWarp_WP7_TestSDK.XML

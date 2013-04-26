@@ -31,7 +31,6 @@
             <TextBox Height="72" HorizontalAlignment="Left" Margin="149,100,0,0" Name="inputBox" Text="" VerticalAlignment="Top" Width="301" />
             <TextBlock Height="30" HorizontalAlignment="Left" Margin="27,122,0,0" Name="nameLabel" Text="Name" VerticalAlignment="Top" />
             <Button Content="Create Room" Height="71" HorizontalAlignment="Right" Margin="0,316,26,0" Name="createButton" VerticalAlignment="Top" Width="207" Click="createButton_Click" />
-            <Button Content="Auth" Height="72" HorizontalAlignment="Left" Margin="210,214,0,0" Name="authButton" VerticalAlignment="Top" Width="246" Click="authButton_Click" />
             <Button Content="Join Room" Height="72" HorizontalAlignment="Left" Margin="250,405,0,0" Name="joinButton" VerticalAlignment="Top" Width="180" Click="joinButton_Click" />
             <TextBlock Height="30" HorizontalAlignment="Left" Margin="9,37,0,0" Name="resutlBlock" Text="" VerticalAlignment="Top" Width="441" />
             <Button Content="Connect" Height="70" HorizontalAlignment="Left" Margin="27,214,0,0" Name="button1" VerticalAlignment="Top" Width="160" Click="connectButton_Click" />
