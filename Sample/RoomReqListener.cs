@@ -62,5 +62,17 @@ namespace AppWarp_WP7_TestSDK
             //WarpClient.GetInstance().GetLiveRoomInfo(eventObj.getData().getId());
         }
 
+        public void onUpdatePropertyDone(LiveRoomInfoEvent eventObj)
+        {
+            if (WarpResponseResultCode.SUCCESS == eventObj.getResult())
+            {
+                _page.showResult("UpdateProperty event received with success status");
+            }
+            else
+            {
+                _page.showResult("Update Propert event received with fail status. Status is :" + eventObj.getResult().ToString());
+            }
+        }
+
     }
 }

@@ -1,12 +1,12 @@
-﻿<xapCache source="J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\AppWarp_WP7_TestSDK.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="26-04-2013 08:29:51 PM">
+﻿<xapCache source="J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\AppWarp_WP7_TestSDK.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="20-05-2013 10:37:47 AM">
   <file source="J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="26-04-2013 08:11:22 PM" />
   <file source="J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\Background.png" archivePath="Background.png" lastWriteTime="26-04-2013 08:11:22 PM" />
   <file source="J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="26-04-2013 08:11:22 PM" />
-  <file source="J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\obj\Debug\AppWarp_WP7_TestSDK.dll" archivePath="AppWarp_WP7_TestSDK.dll" lastWriteTime="26-04-2013 08:29:50 PM" />
-  <file source="J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\AppWarp_WP7_SDK.dll" archivePath="AppWarp_WP7_SDK.dll" lastWriteTime="26-04-2013 07:18:23 PM" />
+  <file source="J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\obj\Debug\AppWarp_WP7_TestSDK.dll" archivePath="AppWarp_WP7_TestSDK.dll" lastWriteTime="20-05-2013 10:37:46 AM" />
+  <file source="J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\AppWarp_WP7_SDK.dll" archivePath="AppWarp_WP7_SDK.dll" lastWriteTime="16-05-2013 10:07:44 AM" />
   <file source="J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\Newtonsoft.Json.WindowsPhone.dll" archivePath="Newtonsoft.Json.WindowsPhone.dll" lastWriteTime="24-04-2013 10:55:45 AM" />
   <file source="J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="26-04-2013 08:11:22 PM" />
-  <file source="J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="26-04-2013 08:28:30 PM" />
+  <file source="J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="20-05-2013 10:37:46 AM" />
   <file source="J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="26-04-2013 08:11:22 PM" />
   <file source="J:\Win8\GitHub\AppWarp\AppWarp_WP7_SDK_DLL\Sample\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="26-04-2013 08:11:22 PM" />
 </xapCache>

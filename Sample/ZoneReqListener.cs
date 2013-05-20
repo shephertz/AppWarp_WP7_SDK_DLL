@@ -50,5 +50,16 @@ namespace AppWarp_WP7_TestSDK
         {
             //WarpClient.GetInstance().GetLiveUserInfo("dc");
         }
+        public void onGetMatchedRoomsDone(MatchedRoomsEvent eventObj)
+        {
+            if (eventObj.getResult() == WarpResponseResultCode.SUCCESS)
+            {
+                _page.showResult("GetMatchedRooms event received with success status");
+                foreach (var roomData in eventObj.getRoomsData())
+                {
+                    _page.showResult("Room ID:" + roomData.getId());
+                }
+            }
+        }
     }
 }

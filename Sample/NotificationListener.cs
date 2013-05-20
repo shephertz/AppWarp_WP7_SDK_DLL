@@ -11,6 +11,7 @@ using System.Windows.Shapes;
 using com.shephertz.app42.gaming.multiplayer.client.events;
 using com.shephertz.app42.gaming.multiplayer.client.command;
 using com.shephertz.app42.gaming.multiplayer.client;
+using System.Collections.Generic;
 
 namespace AppWarp_WP7_TestSDK
 {
@@ -53,6 +54,17 @@ namespace AppWarp_WP7_TestSDK
         {
             string j = System.Text.UTF8Encoding.UTF8.GetString(eventObj.getUpdate(), 0, eventObj.getUpdate().Length);
             _page.showResult("update recvd " + j );
+        }
+        public void onUserChangeRoomProperty(RoomData roomData, string sender, Dictionary<String, Object> properties)
+        {
+            _page.showResult("Notification for User Changed Room Propert received");
+            _page.showResult(roomData.getId());
+            _page.showResult(sender);
+            foreach (KeyValuePair<string, object> entry in properties)
+            {
+                _page.showResult("KEY:" + entry.Key);
+                _page.showResult("VALUE:" + entry.Value.ToString());
+            }
         }
     }
 }
