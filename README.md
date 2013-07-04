@@ -6,11 +6,8 @@ AppWarp client SDK and samples for WP7 and WP8 applications
 
 Check out [AppWarp](http://appwarp.shephertz.com/) to learn more about the product.
 
-[Getting Started](https://github.com/shephertz/AppWarp_WP7_SDK_DLL/wiki/Getting-Started)
+[Getting Started](https://github.com/shephertz/AppWarpDeveloper/wiki/Windows-Phone-Home)
 
-[Reference](https://github.com/shephertz/AppWarp_WP7_SDK_DLL/wiki/Reference)
-
-[FAQ](https://github.com/shephertz/AppWarp_JAVA_SDK_JAR/wiki/FAQ)
 
 Sample
 ========
@@ -19,8 +16,3 @@ rooms.
 Please update the call to WarpClient.initialize with the Api and Secret key pair received while signing up.
 
 [![](http://blogs.shephertz.com/wp-content/uploads/2013/05/Signup.jpg)](https://apphq.shephertz.com/register?appwarp=true)[![](http://blogs.shephertz.com/wp-content/uploads/2013/05/AlreadyRegistered.jpg)](https://apphq.shephertz.com/)
-
-V_1.1 update
-
-* remove dependency on NewtonJSON dll
-* Added username validation to restrict ;,\/ characters and name length to 25 characters.
