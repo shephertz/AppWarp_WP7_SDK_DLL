@@ -1,3 +1,3 @@
-[Getting Started](appwarp.shephertz.com/game-development-center/windows-game-developers-home/)
+[Getting Started](http://appwarp.shephertz.com/game-development-center/windows-game-developers-home/)
 
 [Product Site](http://appwarp.shephertz.com)
