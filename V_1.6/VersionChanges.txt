@@ -1,1 +1,2 @@
 * Connection related bugs fixed
+* Signout related changes
